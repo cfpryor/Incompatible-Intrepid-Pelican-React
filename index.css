@@ -334,16 +334,14 @@
 }
 .contact4-content {
   gap: var(--dl-space-space-halfunit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.contact4-text1 {
-  width: 940px;
-  height: 52px;
-}
 .contact4-row {
   gap: 48px;
+  width: 479px;
   display: flex;
   align-self: stretch;
   align-items: flex-start;
@@ -352,9 +350,8 @@
 .contact4-content1 {
   gap: var(--dl-space-space-oneandhalfunits);
   flex: 1;
-  width: auto;
+  width: 361px;
   display: flex;
-  flex-grow: 1;
   align-items: flex-start;
   flex-shrink: 0;
   flex-direction: column;
@@ -373,7 +370,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.contact4-text2 {
+.contact4-text {
   align-self: flex-start;
   text-align: center;
 }
@@ -384,7 +381,7 @@
 .contact4-content3 {
   gap: var(--dl-space-space-oneandhalfunits);
   flex: 1;
-  width: auto;
+  width: 688px;
   display: flex;
   align-items: center;
   flex-shrink: 0;
@@ -407,41 +404,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.contact4-text3 {
-  align-self: stretch;
-  text-align: left;
-}
-.contact4-phone {
-  align-self: flex-start;
-  text-align: center;
-}
-.contact4-content5 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  flex: 1;
-  width: auto;
-  display: flex;
-  align-items: center;
-  flex-shrink: 0;
-  flex-direction: column;
-}
-.contact4-icon4 {
-  align-self: flex-start;
-}
-.contact4-contact-info2 {
-  gap: var(--dl-space-space-oneandhalfunits);
-  display: flex;
-  align-self: stretch;
-  align-items: center;
-  flex-direction: column;
-}
-.contact4-content6 {
-  gap: 16px;
-  display: flex;
-  align-self: stretch;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.contact4-text4 {
+.contact4-text1 {
   align-self: flex-start;
   text-align: left;
 }
