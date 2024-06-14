@@ -1,0 +1,14 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# Standard
+*.swp
+.DS_Store
+
+# Python
+__pycache__
+
+# IDE
+.idea

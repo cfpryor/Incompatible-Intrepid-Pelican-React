@@ -10,10 +10,10 @@ const Research = (props) => {
   return (
     <div className="research-container">
       <Helmet>
-        <title>Research - Incompatible Intrepid Pelican</title>
+        <title>Research - Connor Pryor's Website</title>
         <meta
           property="og:title"
-          content="Research - Incompatible Intrepid Pelican"
+          content="Research - Connor Pryor's Website"
         />
       </Helmet>
       <Navbar4></Navbar4>

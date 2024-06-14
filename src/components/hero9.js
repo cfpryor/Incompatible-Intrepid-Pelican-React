@@ -105,14 +105,14 @@ Hero9.defaultProps = {
   imageAlt1: 'image',
   imageAlt2: 'image',
   currentDegree: 'Ph.D. Candidate',
-  imageSrc4: '/octicons-mark-github.svg',
+  imageSrc4: '/logo-github.svg',
   heading1: 'Connor Pryor',
-  imageSrc2: '/google_scholar_logo.svg-200h.png',
+  imageSrc2: '/logo-google-scholar.png',
   action2: 'Learn More',
-  imageSrc3: '/linkedin_icon.svg-200h.png',
+  imageSrc3: '/logo-linkedin.png',
   content1:
     'Computer Science and Engineering Ph.D. Candidate University of California Santa Cruz',
-  imageSrc: '/face2019-300w.jpg',
+  imageSrc: '/profile-picture.jpg',
   rootClassName: '',
 }
 
